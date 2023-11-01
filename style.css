@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Kenia&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg, #59320a, #994900);
+}
+
+#time {
+    display: flex;
+    color: #f2e3d6;
+}
+
+#time * {
+    font-size: 8rem;
+    font-family: 'kenia';
+    font-weight: 200;
+}
